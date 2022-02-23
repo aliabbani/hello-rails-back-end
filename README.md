@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Hello Rails-back-end
-The project is about learning how to connect rails backeend application with react front-end application.
+The project is about learning how to connect rails backend application with react front-end application.
 
 ## Api endpoint
 Api endpoint link: https://hello-ali-backend.herokuapp.com/v1/messages 
