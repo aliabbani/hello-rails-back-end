@@ -1,24 +1,60 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello Rails-back-end
+The project is about learning how to connect rails backend application with react front-end application.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Api endpoint
+Api endpoint link: https://hello-ali-backend.herokuapp.com/v1/messages 
+## Built With
+### Back-end
+- Ruby 
+- Ruby on Rails
 
-Things you may want to cover:
+### Front-end
+- React
+- Redux
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* Ruby version
+### Prerequisites
+Ruby: 2.6.3 Rails: 5.2.3 Postgres: >=9.5
 
-* System dependencies
+### Setup
+Install gems with:
+```javascript
+bundle install
+```
+Setup database with:
+```javascript
+rails db:create
+rails db:migrate
+rails db:seed
+```
+### Usage
+Start server with:
+```javascript
+rails server
+```
+Open http://localhost:3000/ in your browser.
 
-* Configuration
+## Author
 
-* Database creation
+👤 **Ali Abbani**
 
-* Database initialization
+## Ali's Profile
 
-* How to run the test suite
+- [GitHub](https://github.com/aliabbani)
+- [AngelList](https://angel.co/u/ali-abbani)
+- [LinkedIn](https://www.linkedin.com/in/ali-abbani-8b6246150/)
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
-* Services (job queues, cache servers, search engines, etc.)
+Feel free to check the [issues page](https://github.com/aliabbani/hello-rails-back-end/issues).
 
-* Deployment instructions
+## Show your support
+Give a ⭐️ if you like this project!
 
-* ...
+## Acknowledgments
+A special thanks to Microverse for inspiring this project.
+A special thanks goes to all our peers at Microverse for being there for me.
+## 📝 License
+This project is MIT licensed.

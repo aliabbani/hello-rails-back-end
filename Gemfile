@@ -72,3 +72,6 @@ group :test do
 end
 # add rubocop
 gem 'rubocop', '>= 1.0', '< 2.0'
+
+# for fetching the data
+gem 'rack-cors'
